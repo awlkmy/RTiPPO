@@ -1,0 +1,10 @@
+C:\Users\zheey\source\repos\DurakGame\DurakGame\obj\Debug\DurakGame.csproj.AssemblyReference.cache
+C:\Users\zheey\source\repos\DurakGame\DurakGame\obj\Debug\DurakGame.MainForm.resources
+C:\Users\zheey\source\repos\DurakGame\DurakGame\obj\Debug\DurakGame.Properties.Resources.resources
+C:\Users\zheey\source\repos\DurakGame\DurakGame\obj\Debug\DurakGame.csproj.GenerateResource.cache
+C:\Users\zheey\source\repos\DurakGame\DurakGame\obj\Debug\DurakGame.csproj.CoreCompileInputs.cache
+C:\Users\zheey\source\repos\DurakGame\DurakGame\bin\Debug\DurakGame.exe.config
+C:\Users\zheey\source\repos\DurakGame\DurakGame\bin\Debug\DurakGame.exe
+C:\Users\zheey\source\repos\DurakGame\DurakGame\bin\Debug\DurakGame.pdb
+C:\Users\zheey\source\repos\DurakGame\DurakGame\obj\Debug\DurakGame.exe
+C:\Users\zheey\source\repos\DurakGame\DurakGame\obj\Debug\DurakGame.pdb
